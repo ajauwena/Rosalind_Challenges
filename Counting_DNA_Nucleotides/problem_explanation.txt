@@ -1,1 +1,3 @@
+--- Problem Explanation ---
+
 Rosalind expects our script to output the nucleotide frequencies ONLY.
